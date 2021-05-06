@@ -1,0 +1,13 @@
+let
+    x = TRUE
+in
+    let
+        y = TRUE
+    in
+        let
+            z = FALSE
+        in
+            x AND y OR z
+        end
+    end
+end

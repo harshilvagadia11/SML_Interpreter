@@ -1,0 +1,10 @@
+$(SML_LIB)/basis/basis.mlb
+$(SML_LIB)/basis/mlton.mlb
+$(SML_LIB)/mlyacc-lib/mlyacc-lib.mlb
+ast.sml
+evaluator.sml
+type-checker.sml
+calc.yacc.sig
+calc.yacc.sml
+calc.lex.sml
+load-calc.sml

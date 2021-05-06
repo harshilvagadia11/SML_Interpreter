@@ -1,0 +1,2 @@
+fun f(x:int):int => TRUE;
+5

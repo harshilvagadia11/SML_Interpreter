@@ -1,0 +1,11 @@
+let
+    y = 3
+in
+    y
+end;
+fun f (x: int): int => x PLUS y;
+let
+    y = 2
+in
+    (f 1)
+end

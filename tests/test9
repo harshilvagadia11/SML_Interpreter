@@ -1,0 +1,5 @@
+let
+    y = 2
+in
+    let fun f (x: int): int => x PLUS y in (f 1) end
+end
